@@ -1,5 +1,8 @@
-snippets
-========
+pygtk - Switch between locales
+===============================
+
+**This is a (tested) working proof of an issue facing pygtk developers.**
+**Take the parts u need and integrate into ur own code.**
 
 Great pygtk GUI apps should have a way to switch between languages "on the fly".
 Issues that are resolved:
